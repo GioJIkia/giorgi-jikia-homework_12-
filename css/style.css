@@ -145,6 +145,7 @@ address {
   border-width: 2px;
   border: 2px solid var(--primary-color-white);
   background-color: var(--primary-color-pink);
+  cursor: pointer;
 }
 .section-adress-button-image {
   width: 100%;
