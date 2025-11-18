@@ -1,0 +1,11 @@
+/* main-style */
+:root {
+  --primary-color-black: #1C1325CC;
+  --primary-color-pink: #F30AEA;
+  --primary-color-white: #FFFFFF;
+  --secondary-color-violet: #B052B5C9;
+  --secondary-color-light-violet: #B052B5;
+  --secondary-color-light-pink: #F90CEFB5;
+  --secondary-color-grey:#9E8D9EB5;
+  --font-family-main:"Poppins", sans-serif;
+}

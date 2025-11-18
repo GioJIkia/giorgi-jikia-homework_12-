@@ -1,0 +1,20 @@
+/* 768px-481px */
+@media (max-width: 800px) {
+  /* container-style */
+  .container {
+    padding: 32px 24px;
+  }
+  /* ---------------------------section--------------------- */
+  .container-section {
+    flex-direction: column;
+    padding: 40px 16px;
+    row-gap: 64px;
+  }
+  .section-header-and-form-container {
+    width: 100%;
+  }
+  /* -----------------address-------------------- */
+  .section-address-and-iframe-container {
+    width: 100%;
+  }
+}
