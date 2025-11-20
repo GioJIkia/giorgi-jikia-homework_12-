@@ -63,7 +63,12 @@ form {
   border-radius: 8px;
   border-width: 1px;
   border: 1px solid var(--secondary-color-light-violet);
-  cursor: pointer;
+}
+.input-1 {
+  padding-left: 11px;
+}
+.input-2 {
+  padding-left: 11px;
 }
 .input-1,
 .input-2,
@@ -102,7 +107,8 @@ textarea {
   resize: none;
   color: var(--secondary-color-grey);
   background: transparent;
-  cursor: pointer;
+  padding-top: 11px;
+  padding-left: 11px;
 }
 .section-form-button {
   width: 100%;
